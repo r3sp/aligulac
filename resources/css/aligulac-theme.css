@@ -629,3 +629,6 @@ p, li, ul {
     padding-left: 1px;
     padding-right: 1px;
 }
+.admin-buttons a:hover {
+    text-decoration: none;
+}
